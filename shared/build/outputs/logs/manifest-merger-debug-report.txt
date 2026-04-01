@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13447813226664237940.xml:2:13-83
+INJECTED from /Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13447813226664237940.xml:2:13-83
+	package
+		INJECTED from /Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13447813226664237940.xml
+	xmlns:android
+		ADDED from /Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13447813226664237940.xml:2:23-81
+uses-sdk
+INJECTED from /Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13447813226664237940.xml reason: use-sdk injection requested
+INJECTED from /Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13447813226664237940.xml
+INJECTED from /Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13447813226664237940.xml
+	android:targetSdkVersion
+		INJECTED from /Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13447813226664237940.xml
+	android:minSdkVersion
+		INJECTED from /Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest13447813226664237940.xml

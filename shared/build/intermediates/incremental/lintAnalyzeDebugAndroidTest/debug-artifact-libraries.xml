@@ -1,0 +1,23 @@
+<libraries>
+  <library
+      name=":@@:shared::debug"
+      jars="/Users/cristianocalicchia/.gradle/caches/8.14.3/transforms/52031423b2b52c8e538eaa49c01a3371/transformed/out/jars/classes.jar:/Users/cristianocalicchia/.gradle/caches/8.14.3/transforms/52031423b2b52c8e538eaa49c01a3371/transformed/out/jars/libs/R.jar"
+      resolved="MyApplication:shared:unspecified"
+      folder="/Users/cristianocalicchia/.gradle/caches/8.14.3/transforms/52031423b2b52c8e538eaa49c01a3371/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib:2.3.0@jar"
+      jars="/Users/cristianocalicchia/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.3.0/ebc4eb2b6e6c91b6c844c1e3183920d86f2ef656/kotlin-stdlib-2.3.0.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:2.3.0"/>
+  <library
+      name="org.jetbrains:annotations:13.0@jar"
+      jars="/Users/cristianocalicchia/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+      resolved="org.jetbrains:annotations:13.0"/>
+</libraries>

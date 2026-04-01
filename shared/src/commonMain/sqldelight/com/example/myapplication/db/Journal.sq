@@ -1,0 +1,22 @@
+CREATE TABLE JournalEntry (
+    id TEXT NOT NULL PRIMARY KEY,
+    dateIso TEXT NOT NULL,
+    mood TEXT NOT NULL,
+    note TEXT NOT NULL
+);
+
+selectAll:
+SELECT *
+FROM JournalEntry
+ORDER BY dateIso DESC;
+
+insertItem:
+INSERT OR REPLACE INTO JournalEntry(id, dateIso, mood, note)
+VALUES (?, ?, ?, ?);
+
+deleteItem:
+DELETE FROM JournalEntry
+WHERE id = ?;
+
+deleteAll:
+DELETE FROM JournalEntry;

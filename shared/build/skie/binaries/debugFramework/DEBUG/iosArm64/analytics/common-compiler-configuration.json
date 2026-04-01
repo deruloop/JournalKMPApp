@@ -1,0 +1,23 @@
+{
+    "kotlinLanguageVersion": "2.1",
+    "kotlinApiVersion": "2.1",
+    "languageVersionString": "Language = 2.1, API = 2.1 +MultiPlatformProjects allowFullyQualifiedNameInKClass:true allowKotlinPackage:false dontWarnOnErrorSuppression:false explicitApiMode:DISABLED explicitApiVersion:false explicitReturnTypes:DISABLED extendedCompilerChecks:false globallySuppressedDiagnostics:[] multiPlatformDoNotCheckActual:false muteExpectActualClassesWarning:false optIn:[kotlin.ExperimentalUnsignedTypes] skipExpectedActualDeclarationChecker:false skipMetadataVersionCheck:false skipPrereleaseCheck:false stdlibCompilation:false",
+    "host": "macos_arm64",
+    "target": "ios_arm64",
+    "overriddenProperties": {
+        "osVersionMin.ios_arm64": "13.0",
+        "osVersionMinSinceXcode15.ios_arm64": "13.0"
+    },
+    "isDebugBuild": true,
+    "linkerArgs": [
+        "-lsqlite3"
+    ],
+    "overrideClangOptions": [],
+    "staticFramework": false,
+    "objcGenerics": true,
+    "memoryModel": null,
+    "allocationMode": null,
+    "unitSuspendFunctionObjCExport": null,
+    "objcExportSuspendFunctionLaunchThreadRestriction": null,
+    "objcExportDisableSwiftMemberNameMangling": null
+}
