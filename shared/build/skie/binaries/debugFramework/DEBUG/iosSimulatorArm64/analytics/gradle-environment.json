@@ -2,8 +2,8 @@
     "gradleVersion": "8.14.3",
     "ci": null,
     "skieVersion": "0.10.10",
-    "timestampInMs": 1775057471785,
+    "timestampInMs": 1775113071057,
     "kotlinVersion": "2.1.21",
-    "jvmVersion": "21.0.8+-14196175-b1038.72",
-    "macOSVersion": "26.3.1"
+    "jvmVersion": "21.0.9+-14787801-b1163.94",
+    "macOSVersion": "26.2"
 }

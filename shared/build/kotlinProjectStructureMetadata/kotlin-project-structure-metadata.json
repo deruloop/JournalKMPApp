@@ -53,7 +53,12 @@
           "nativeMain"
         ],
         "moduleDependency": [
-          "org.jetbrains.kotlinx:kotlinx-coroutines-core"
+          "app.cash.sqldelight:runtime",
+          "org.jetbrains.kotlinx:kotlinx-coroutines-core",
+          "org.jetbrains.kotlinx:kotlinx-serialization-json",
+          "com.squareup.okio:okio",
+          "org.jetbrains.kotlinx:kotlinx-datetime",
+          "app.cash.sqldelight:coroutines-extensions"
         ],
         "sourceSetCInteropMetadataDirectory": "appleMain-cinterop",
         "binaryLayout": "klib",
@@ -63,8 +68,13 @@
         "name": "commonMain",
         "dependsOn": [],
         "moduleDependency": [
+          "app.cash.sqldelight:runtime",
           "org.jetbrains.kotlin:kotlin-stdlib",
-          "org.jetbrains.kotlinx:kotlinx-coroutines-core"
+          "org.jetbrains.kotlinx:kotlinx-coroutines-core",
+          "org.jetbrains.kotlinx:kotlinx-serialization-json",
+          "com.squareup.okio:okio",
+          "org.jetbrains.kotlinx:kotlinx-datetime",
+          "app.cash.sqldelight:coroutines-extensions"
         ],
         "binaryLayout": "klib"
       },
@@ -74,7 +84,13 @@
           "appleMain"
         ],
         "moduleDependency": [
-          "org.jetbrains.kotlinx:kotlinx-coroutines-core"
+          "app.cash.sqldelight:runtime",
+          "org.jetbrains.kotlinx:kotlinx-coroutines-core",
+          "org.jetbrains.kotlinx:kotlinx-serialization-json",
+          "com.squareup.okio:okio",
+          "org.jetbrains.kotlinx:kotlinx-datetime",
+          "app.cash.sqldelight:coroutines-extensions",
+          "app.cash.sqldelight:native-driver"
         ],
         "sourceSetCInteropMetadataDirectory": "iosMain-cinterop",
         "binaryLayout": "klib",
@@ -86,7 +102,12 @@
           "commonMain"
         ],
         "moduleDependency": [
-          "org.jetbrains.kotlinx:kotlinx-coroutines-core"
+          "app.cash.sqldelight:runtime",
+          "org.jetbrains.kotlinx:kotlinx-coroutines-core",
+          "org.jetbrains.kotlinx:kotlinx-serialization-json",
+          "com.squareup.okio:okio",
+          "org.jetbrains.kotlinx:kotlinx-datetime",
+          "app.cash.sqldelight:coroutines-extensions"
         ],
         "sourceSetCInteropMetadataDirectory": "nativeMain-cinterop",
         "binaryLayout": "klib",

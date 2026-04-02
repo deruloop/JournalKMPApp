@@ -1,210 +1,210 @@
 {
 "": {
-    "emit-module-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/module/Shared.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/module/Shared.swiftdeps"
+    "emit-module-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/module/Shared.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/module/Shared.swiftdeps"
 },
 "generated/Skie/Skie.SwiftCoroutineDispatcher.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SwiftCoroutineDispatcher.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SwiftCoroutineDispatcher.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SwiftCoroutineDispatcher.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SwiftCoroutineDispatcher~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SwiftCoroutineDispatcher.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SwiftCoroutineDispatcher.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SwiftCoroutineDispatcher.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SwiftCoroutineDispatcher~partial.swiftmodule"
 },
 "generated/Skie/Skie.AsyncStreamDispatcherDelegate.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.AsyncStreamDispatcherDelegate.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.AsyncStreamDispatcherDelegate.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.AsyncStreamDispatcherDelegate.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.AsyncStreamDispatcherDelegate~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.AsyncStreamDispatcherDelegate.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.AsyncStreamDispatcherDelegate.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.AsyncStreamDispatcherDelegate.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.AsyncStreamDispatcherDelegate~partial.swiftmodule"
 },
 "generated/Skie/Skie.Namespace.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Namespace.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Namespace.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Namespace.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Namespace~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Namespace.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Namespace.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Namespace.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Namespace~partial.swiftmodule"
 },
 "generated/Skie/Skie.SkieSwiftFlowIterator.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowIterator.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowIterator.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowIterator.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowIterator~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowIterator.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowIterator.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowIterator.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowIterator~partial.swiftmodule"
 },
 "generated/Skie/Skie.SkieSwiftFlowProtocol.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowProtocol.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowProtocol.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowProtocol.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowProtocol~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowProtocol.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowProtocol.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowProtocol.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlowProtocol~partial.swiftmodule"
 },
 "generated/Skie/Skie.SkieSwiftFlow.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlow.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlow.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlow.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlow~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlow.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlow.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlow.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftFlow~partial.swiftmodule"
 },
 "generated/Skie/Skie.SkieSwiftOptionalFlow.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalFlow.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalFlow.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalFlow.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalFlow~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalFlow.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalFlow.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalFlow.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalFlow~partial.swiftmodule"
 },
 "generated/Skie/Skie.SkieSwiftSharedFlow.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftSharedFlow.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftSharedFlow.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftSharedFlow.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftSharedFlow~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftSharedFlow.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftSharedFlow.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftSharedFlow.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftSharedFlow~partial.swiftmodule"
 },
 "generated/Skie/Skie.SkieSwiftOptionalSharedFlow.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalSharedFlow.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalSharedFlow.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalSharedFlow.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalSharedFlow~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalSharedFlow.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalSharedFlow.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalSharedFlow.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalSharedFlow~partial.swiftmodule"
 },
 "generated/Skie/Skie.SkieSwiftMutableSharedFlow.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableSharedFlow.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableSharedFlow.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableSharedFlow.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableSharedFlow~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableSharedFlow.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableSharedFlow.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableSharedFlow.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableSharedFlow~partial.swiftmodule"
 },
 "generated/Skie/Skie.SkieSwiftOptionalMutableSharedFlow.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableSharedFlow.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableSharedFlow.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableSharedFlow.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableSharedFlow~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableSharedFlow.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableSharedFlow.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableSharedFlow.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableSharedFlow~partial.swiftmodule"
 },
 "generated/Skie/Skie.SkieSwiftStateFlow.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftStateFlow.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftStateFlow.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftStateFlow.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftStateFlow~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftStateFlow.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftStateFlow.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftStateFlow.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftStateFlow~partial.swiftmodule"
 },
 "generated/Skie/Skie.SkieSwiftOptionalStateFlow.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalStateFlow.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalStateFlow.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalStateFlow.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalStateFlow~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalStateFlow.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalStateFlow.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalStateFlow.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalStateFlow~partial.swiftmodule"
 },
 "generated/Skie/Skie.SkieSwiftMutableStateFlow.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableStateFlow.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableStateFlow.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableStateFlow.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableStateFlow~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableStateFlow.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableStateFlow.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableStateFlow.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftMutableStateFlow~partial.swiftmodule"
 },
 "generated/Skie/Skie.SkieSwiftOptionalMutableStateFlow.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableStateFlow.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableStateFlow.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableStateFlow.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableStateFlow~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableStateFlow.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableStateFlow.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableStateFlow.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieSwiftOptionalMutableStateFlow~partial.swiftmodule"
 },
 "generated/Skie/Skie.bridgeSubscriptionCount.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.bridgeSubscriptionCount.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.bridgeSubscriptionCount.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.bridgeSubscriptionCount.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.bridgeSubscriptionCount~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.bridgeSubscriptionCount.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.bridgeSubscriptionCount.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.bridgeSubscriptionCount.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.bridgeSubscriptionCount~partial.swiftmodule"
 },
 "generated/Skie/Skie.SkieColdFlowIterator.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieColdFlowIterator.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieColdFlowIterator.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieColdFlowIterator.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieColdFlowIterator~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieColdFlowIterator.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieColdFlowIterator.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieColdFlowIterator.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.SkieColdFlowIterator~partial.swiftmodule"
 },
 "generated/KotlinxCoroutinesCore/KotlinxCoroutinesCore.Flow.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.Flow.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.Flow.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.Flow.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.Flow~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.Flow.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.Flow.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.Flow.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.Flow~partial.swiftmodule"
 },
 "generated/KotlinxCoroutinesCore/KotlinxCoroutinesCore.FlowCollector.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.FlowCollector.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.FlowCollector.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.FlowCollector.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.FlowCollector~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.FlowCollector.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.FlowCollector.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.FlowCollector.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxCoroutinesCore.FlowCollector~partial.swiftmodule"
 },
 "generated/MyApplication__shared/MyApplication__shared.FeatureRepository.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureRepository.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureRepository.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureRepository.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureRepository~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureRepository.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureRepository.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureRepository.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureRepository~partial.swiftmodule"
 },
 "generated/MyApplication__shared/MyApplication__shared.JournalRepository.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.JournalRepository.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.JournalRepository.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.JournalRepository.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.JournalRepository~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.JournalRepository.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.JournalRepository.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.JournalRepository.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.JournalRepository~partial.swiftmodule"
 },
 "generated/Runtime/Runtime.QueryResult.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.QueryResult.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.QueryResult.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.QueryResult.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.QueryResult~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.QueryResult.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.QueryResult.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.QueryResult.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.QueryResult~partial.swiftmodule"
 },
 "generated/Runtime/Runtime.SuspendingTransacter.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.SuspendingTransacter.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.SuspendingTransacter.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.SuspendingTransacter.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.SuspendingTransacter~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.SuspendingTransacter.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.SuspendingTransacter.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.SuspendingTransacter.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.SuspendingTransacter~partial.swiftmodule"
 },
 "generated/Stdlib/Stdlib.SuspendFunction1.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Stdlib.SuspendFunction1.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Stdlib.SuspendFunction1.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Stdlib.SuspendFunction1.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Stdlib.SuspendFunction1~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Stdlib.SuspendFunction1.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Stdlib.SuspendFunction1.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Stdlib.SuspendFunction1.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Stdlib.SuspendFunction1~partial.swiftmodule"
 },
 "generated/Skie/Skie.FlowConversions.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.FlowConversions.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.FlowConversions.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.FlowConversions.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.FlowConversions~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.FlowConversions.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.FlowConversions.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.FlowConversions.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.FlowConversions~partial.swiftmodule"
 },
 "generated/Skie/Skie.Skie_SuspendResult.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Skie_SuspendResult.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Skie_SuspendResult.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Skie_SuspendResult.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Skie_SuspendResult~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Skie_SuspendResult.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Skie_SuspendResult.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Skie_SuspendResult.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Skie.Skie_SuspendResult~partial.swiftmodule"
 },
 "generated/MyApplication__shared/MyApplication__shared.FeatureState.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureState.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureState.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureState.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureState~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureState.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureState.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureState.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.FeatureState~partial.swiftmodule"
 },
 "generated/KotlinxSerializationCore/KotlinxSerializationCore.SerialKind.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerialKind.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerialKind.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerialKind.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerialKind~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerialKind.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerialKind.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerialKind.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerialKind~partial.swiftmodule"
 },
 "generated/KotlinxSerializationCore/KotlinxSerializationCore.SerializersModule.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerializersModule.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerializersModule.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerializersModule.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerializersModule~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerializersModule.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerializersModule.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerializersModule.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.SerializersModule~partial.swiftmodule"
 },
 "generated/KotlinxSerializationCore/KotlinxSerializationCore.PolymorphicKind.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PolymorphicKind.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PolymorphicKind.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PolymorphicKind.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PolymorphicKind~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PolymorphicKind.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PolymorphicKind.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PolymorphicKind.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PolymorphicKind~partial.swiftmodule"
 },
 "generated/KotlinxSerializationCore/KotlinxSerializationCore.PrimitiveKind.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PrimitiveKind.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PrimitiveKind.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PrimitiveKind.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PrimitiveKind~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PrimitiveKind.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PrimitiveKind.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PrimitiveKind.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.PrimitiveKind~partial.swiftmodule"
 },
 "generated/KotlinxSerializationCore/KotlinxSerializationCore.StructureKind.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.StructureKind.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.StructureKind.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.StructureKind.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.StructureKind~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.StructureKind.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.StructureKind.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.StructureKind.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/KotlinxSerializationCore.StructureKind~partial.swiftmodule"
 },
 "generated/Runtime/Runtime.TransacterBase.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.TransacterBase.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.TransacterBase.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.TransacterBase.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.TransacterBase~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.TransacterBase.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.TransacterBase.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.TransacterBase.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/Runtime.TransacterBase~partial.swiftmodule"
 },
 "generated/MyApplication__shared/MyApplication__shared.Platform_iosKt.swift": {
-    "object": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.Platform_iosKt.o",
-    "dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.Platform_iosKt.d",
-    "swift-dependencies": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.Platform_iosKt.swiftdeps",
-    "swiftmodule": "/Users/cristianocalicchia/AndroidStudioProjects/MyApplication/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.Platform_iosKt~partial.swiftmodule"
+    "object": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.Platform_iosKt.o",
+    "dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.Platform_iosKt.d",
+    "swift-dependencies": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.Platform_iosKt.swiftdeps",
+    "swiftmodule": "/Users/cristianocalicchia/Desktop/JournalKMPApp/shared/build/skie/binaries/debugFramework/DEBUG/iosSimulatorArm64/swift-compiler/object-files/MyApplication__shared.Platform_iosKt~partial.swiftmodule"
 }
 }
